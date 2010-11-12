@@ -1,5 +1,5 @@
 
-m setuptools import setup, find_packages
+from setuptools import setup, find_packages
 
 version = '1.0'
 
